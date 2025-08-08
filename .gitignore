@@ -1,0 +1,14 @@
+# env
+ai-env/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large/out
+dataset/
+*.csv
+*.zip
+*.h5
+*.pkl
