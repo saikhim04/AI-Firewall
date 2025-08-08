@@ -1,13 +1,18 @@
 # env
-ai-env/
 .venv/
 env/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
+# ai-env
+ai-env/
+!ai-env/**/*.py
+
 # large/out
 dataset/
+!dataset/**/*.py
+
 *.csv
 *.zip
 *.h5
