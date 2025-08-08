@@ -10,9 +10,6 @@ ai-env/
 !ai-env/**/*.py
 
 # large/out
-dataset/
-!dataset/**/*.py
-
 *.csv
 *.zip
 *.h5
